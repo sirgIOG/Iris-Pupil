@@ -11,4 +11,5 @@
 - Training Set: 400 images
 - Test Set: 45 images
 
-
+### Accuracy:
+-  Overall accuracy is 96.33%
